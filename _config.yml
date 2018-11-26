@@ -14,7 +14,6 @@ description: > # this means to ignore newlines until "baseurl:"
 author:
   name: Team Ran
   email: daegusfpran@gmail.com
-  twitter: # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
 social:
@@ -43,10 +42,10 @@ webmaster_verifications:
 social_icons:
   - Facebook
   - Google Plus
-  - Instagram
+  - Instagram samsung_daegusfp
   - LinkedIn
   - Pinterest
   - Tumblr
   - Twitter
-  - YouTube
+  - YouTube SamsunglifeBlogs
   - RSS
