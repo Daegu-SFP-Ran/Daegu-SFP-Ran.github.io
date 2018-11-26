@@ -40,14 +40,14 @@ tags:
 
 우리는 '황금알을 낳는 거위'를 키워야 한다. 황금알을 낳기 시작하면 그때부터는 돈 걱정 없는 노후를 보낼 수 있다. 그때까지 거위를 잘 키워야 하고 절대로 당장의 욕심에 눈이 멀어 거위의 배를 갈라서는 안 된다. 배를 가르는 순간 우리의 노후도 갈라질 것이다.
 
-![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/book%20report/%EC%9D%80%ED%87%B4%20%ED%9B%84%20%EC%83%9D%ED%99%9C%EC%88%98%EC%A4%80%20%EC%98%88%EC%8B%9C.jpg?raw=true)
+<img src = "https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/book%20report/%EC%9D%80%ED%87%B4%20%ED%9B%84%20%EC%83%9D%ED%99%9C%EC%88%98%EC%A4%80%20%EC%98%88%EC%8B%9C.jpg?raw=true" class="fit image">
 
 ### 연금이 부족하면 기본적인 삶의 질마저 위협 받는다.
 노후에 적정 수준의 연금이 준비되어 있지 않으면 많은 문제점들이 생기기 시작한다. 먼저, 가장 기본적인 생활이 어려울 수 있다. 기본 생활에 문제가 생긴다는 것은 삶의 질과도 관계가 있다.
 
 미국의 심리학자 에이브러햄 매슬로우(Abraham H. Maslow)는 '욕구 5단계설'을 통해 기본적인 생리적 욕구에서부터 시작하며 궁극적으로 자기실현에 이르기까지를 단계별로 구분하여 각 욕구에도 위계가 있다는 사실을 주장했다.
 
-![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/book%20report/%EB%A7%A4%EC%8A%AC%EB%A1%9C%EC%9A%B0%20%EC%9A%95%EA%B5%AC%205%EB%8B%A8%EA%B3%84%20%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C.png?raw=true)
+<img src = "https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/book%20report/%EB%A7%A4%EC%8A%AC%EB%A1%9C%EC%9A%B0%20%EC%9A%95%EA%B5%AC%205%EB%8B%A8%EA%B3%84%20%ED%94%BC%EB%9D%BC%EB%AF%B8%EB%93%9C.png?raw=true" class ="fit image">
 
 연금이 없이 가난하여 한 끼니를 제대로 때우기도 쉽지 않다. 이 단계에서는 배부르게 먹을 수 있다면 소원이 없을 것이다.
 
@@ -71,14 +71,14 @@ tags:
 
 ### 각 연금별 특징비교
 
-![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/book%20report/pension.png?raw=true)
+<img src = "https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/book%20report/pension.png?raw=true" class = "fit image">
 
 > (참조: 행복한 100년 플랜_삼성생명 은퇴연구소)
 
 직업별로 가입할 수 있는 연금상품에는 차이가 있다. 연금 부자가 되려면 본인이 가입할 수 있는 연금에 대해서 확실히 알아두는 것이 좋다.
 
 ### 직업별 가입 가능 연금상품
-![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/book%20report/%EC%A7%81%EC%97%85%EB%B3%84%20%EA%B0%80%EC%9E%85%20%EA%B0%80%EB%8A%A5%20%EC%97%B0%EA%B8%88%EC%83%81%ED%92%88.png?raw=true)
+<img src = "https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/book%20report/%EC%A7%81%EC%97%85%EB%B3%84%20%EA%B0%80%EC%9E%85%20%EA%B0%80%EB%8A%A5%20%EC%97%B0%EA%B8%88%EC%83%81%ED%92%88.png?raw=true" class = "fit image">
 
 
 금융감독원 파인(http://fine.fss.or.kr)에서는 자신이 가입된 연금현황을 한눈에 볼 수 있도록 서비스를 제공한다.
@@ -111,7 +111,7 @@ DC형을 선택했다면 수익률을 관리해야 한다. DB형은 근로자가
 DB형을 선택했다면 임금 상승률이 매우 중요해진다. 근로자는 퇴직금 운용에 신경 쓰지 않아도 되지만 임금은 신경 써야 한다. DB형은 퇴직 직전의 연봉이 퇴직금에 직접적인 영향을 미치기 때문. (퇴직 직전 3개월 동안의 월평균임금에 근속 연수를 곱하여 퇴직금이 결정되기 때문). 즉 DB형은 회사가 잘 되어야 한다. 회사가 지속적으로 성장하면서 근로자의 급여가 올라야 퇴직금도 동반 상승한다. 회사가 성장하지 못하면 연봉 상승도 제한적일 수밖에 없다.
 
 #### 확정기여형(DC형)과 확정급여형(DB형) 비교
-![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/book%20report/DC%ED%98%95%EA%B3%BC%20DB%ED%98%95%20%EB%B9%84%EA%B5%90.png?raw=true)
+<img src = "https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/book%20report/DC%ED%98%95%EA%B3%BC%20DB%ED%98%95%20%EB%B9%84%EA%B5%90.png?raw=true" class = "fit image">
 
 퇴직연금은 국민연금과 개인연금을 자연스럽게 이어주는 허리 역할도 한다. 국민연금의 수령 나이는 정해져 있다. 개인연금은 납입할 수 있는 금액이 제한적이므로 금액이 크지 않다. 퇴직 후 국민연금을 수령하기 직전까지의 단계와 부족한 개인연금을 더 풍성하게 해주는 역할을 한다.
 
@@ -162,7 +162,7 @@ IRP가 필요한 이유는 목돈으로 지급받은 퇴직금을 노후에 연�
 
 그애 비해 세제비적격연금은 세액공제를 받을 수 없다. 대신 이자소득세가 발생하지 않는다. 즉 비과세 요건만 충족된다면 발생한 수익에 대해서 세금을 부과하지 않는다.
 
-![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/book%20report/%EC%84%B8%EC%A0%9C%EC%A0%81%EA%B2%A9vs%EC%84%B8%EC%A0%9C%EB%B9%84%EC%A0%81%EA%B2%A9.jpg?raw=true)
+<img src = "https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/book%20report/%EC%84%B8%EC%A0%9C%EC%A0%81%EA%B2%A9vs%EC%84%B8%EC%A0%9C%EB%B9%84%EC%A0%81%EA%B2%A9.jpg?raw=true" class = "fit image">
 
 세제적격연금의 경우 혜택을 받을 수 있는 대상이 제한된다. 근로자 또는 개인사업자에 한해 세액공제혜택이 주어지기 때문에 주부처럼 세액공제가 필요 없는 대상에게는 혜택이 크지 않지만, 세제비적격연금의 경우에는 가입대상에 대한 제한이 없다.
 
@@ -184,7 +184,7 @@ IRP가 필요한 이유는 목돈으로 지급받은 퇴직금을 노후에 연�
 
 주택연금을 신청한 주택의 평균가격은 약 2억 8,600만 원이며, 평균 월 수령액은 99만 원이다. 주택연금 가입자는 빠른 속도로 늘어나고 있으며 2016년 말 기준으로 4만 명에 육박한다.
 
-![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/book%20report/%EC%9A%B0%EB%A6%AC%EB%82%98%EB%9D%BC%20%EC%A3%BC%ED%83%9D%EC%97%B0%EA%B8%88%20%EB%88%84%EC%A0%81%20%EA%B0%80%EC%9E%85%EC%9E%90%20%EC%88%98.png?raw=true)
+<img src = "https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/book%20report/%EC%9A%B0%EB%A6%AC%EB%82%98%EB%9D%BC%20%EC%A3%BC%ED%83%9D%EC%97%B0%EA%B8%88%20%EB%88%84%EC%A0%81%20%EA%B0%80%EC%9E%85%EC%9E%90%20%EC%88%98.png?raw=true" class = "fit image">
 
 > 출처: 한국주택금융공사
 

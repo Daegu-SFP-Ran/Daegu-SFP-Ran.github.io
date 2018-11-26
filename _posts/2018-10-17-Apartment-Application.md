@@ -32,14 +32,14 @@ tags:
 
 ## 소득공제
 
-![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/%EC%A3%BC%ED%83%9D%EC%B2%AD%EC%95%BD/%EC%86%8C%EB%93%9D%EA%B3%B5%EC%A0%9C.jpg?raw=true)
+<img src = "https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/%EC%A3%BC%ED%83%9D%EC%B2%AD%EC%95%BD/%EC%86%8C%EB%93%9D%EA%B3%B5%EC%A0%9C.jpg?raw=true" class = "fit image">
 
 ## 청약예치금
 
-![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/%EC%A3%BC%ED%83%9D%EC%B2%AD%EC%95%BD/%EC%B2%AD%EC%95%BD%EC%98%88%EC%B9%98%EA%B8%88%EA%B8%B0%EC%A4%80.jpg?raw=true)
+<img src = "https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/%EC%A3%BC%ED%83%9D%EC%B2%AD%EC%95%BD/%EC%B2%AD%EC%95%BD%EC%98%88%EC%B9%98%EA%B8%88%EA%B8%B0%EC%A4%80.jpg?raw=true" class = "fit image">
 
 ## 청약순위
-![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/%EC%A3%BC%ED%83%9D%EC%B2%AD%EC%95%BD/%EC%B2%AD%EC%95%BD%EC%88%9C%EC%9C%84.jpg?raw=true)
+<img src = "https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/%EC%A3%BC%ED%83%9D%EC%B2%AD%EC%95%BD/%EC%B2%AD%EC%95%BD%EC%88%9C%EC%9C%84.jpg?raw=true" class = "fit image">
 
 ## Release note
 2018-10-17: First Upload
