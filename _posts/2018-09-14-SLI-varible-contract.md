@@ -21,17 +21,17 @@ tags:
 
 실손의료보험은 진단금 같은 정액형 보험과 달리 실제발생 비용을 보상해주는데, 보상범위는 어려운말로 포괄주의라고 하는데 보상하지 않은 항목을 열거하여 알려준다.
 
-![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/SLI/rate.jpg?raw=true)
+![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/SLI/rate.jpg?raw=true class="fit image")
 
 큰 병을 치료하는 의료비는 건강보험만으로는 부족할 수 있으며 국민 1인당 평생의료비가 1억원이 넘어서고 있다. 게다가 경제적인 문제로 치료를 포기하는 환자가 연간 360만명 수준에 달한다. [국민건강통계 2013]
 
 ### 현실로 다가온 인생 100세 시대, 몸이 건강해야 노후가 편안하다.
 
-![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/SLI/variable.jpg?raw=true)
+![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/SLI/variable.jpg?raw=true class="fit image")
 
 실손의료보험은 본인이 부담하는 의료비를 폭넓게 보장합니다.(약관상 규정된 공제금액은 제외)
 
-![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/SLI/range.jpg?raw=true)
+![](https://github.com/mikail0205/mikail0205.github.io/blob/master/assets/images/2018/SLI/range.jpg?raw=true class="fit image")
 
 >급여: 보험급여 원리에 부합되는 의료비용으로, 질병치료에 필요하고 보편적으로 시술되는 경우를 의미. 본인부담으로 구성됨.
 
