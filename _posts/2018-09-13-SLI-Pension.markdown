@@ -11,6 +11,8 @@ tags:
  - Insurance
 ---
 
+<img src="/images/fulls/01.jpg" class="fit image">
+
 ## 연금
 은퇴시기가 점점 앞당겨지고 있기에 은퇴준비는 빠르면 빠를수록 좋다. 노후는 길어지고 우리가 살아갈 날들 역시 길기 때문.
 

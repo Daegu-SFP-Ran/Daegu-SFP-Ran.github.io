@@ -11,6 +11,8 @@ tags:
  - Insurance
 ---
 
+<img src="/images/fulls/02.jpg" class="fit image">
+
 ## 실손의료보험
 
 질병 혹은 상해로 치료시 보험가입자에게 발생한 실제 의료비를 보상하는 상품이다.
