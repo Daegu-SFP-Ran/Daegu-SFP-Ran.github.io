@@ -1,8 +1,8 @@
-- name: Facebook
-  link: 'https://www.facebook.com/comfusionllc'
-  social_icon: Facebook
+- name: Instagram
+  link: 'https://www.instagram.com/samsung_daegusfp/'
+  social_icon: Instagram
   new_window: true
-- name: RSS
-  link: '/feed.xml'
-  social_icon: RSS
+- name: YouTube 
+  link: 'https://www.youtube.com/SamsunglifeBlogs'
+  social_icon: YouTube 
   new_window: true
